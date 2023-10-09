@@ -47,5 +47,3 @@ The code defines various functions for performing transactions (Transfer, Deposi
 - The program uses `fprintf` to write transaction details to the file `DataEntry_tsrBANK.text`.
 ### Note
 - The code assumes that the user interacts with the program through a console or terminal.
----
-Feel free to modify or extend this project as needed. Happy coding!
